@@ -1,0 +1,3 @@
+project=hanami_rom_upsert
+test=minitest
+template=erb
